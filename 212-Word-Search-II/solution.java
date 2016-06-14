@@ -21,7 +21,7 @@ public class Solution {
     	{
     		if (start == word.length() - 1)
     		{
-    			System.out.println("word: " + word + " row: " + row + ", col: " + col);
+    			//System.out.println("word: " + word + " row: " + row + ", col: " + col);
         		res.add(word);
         		return;
     		}
