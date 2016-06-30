@@ -1,5 +1,5 @@
 public class Solution {
-    public int getSum(int a, int b) {
+    public int getSum(int x, int y) {
         	    while (y != 0)
 	    {
 	        // carry now contains common set bits of x and y
